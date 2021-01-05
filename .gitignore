@@ -1,6 +1,5 @@
-Gemfile
 .rubocop.yml
 Gemfile.lock
-
+enumerables.code-workspace
 .rubocop.yml
 .gitignore
