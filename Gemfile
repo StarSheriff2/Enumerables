@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-git_source(:github) { |Enumerables| "https://github.com/#{Enumerables}" }
+git_source(:github) { |enumerables| "https://github.com/#{enumerables}" }
 
 gem 'rspec', '~>3.0'
 
